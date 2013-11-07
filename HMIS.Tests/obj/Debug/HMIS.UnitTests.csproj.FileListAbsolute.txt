@@ -1,0 +1,5 @@
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.Tests\bin\Debug\HMIS.Tests.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.Tests\bin\Debug\HMIS.Tests.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.Tests\obj\Debug\HMIS.Tests.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.Tests\obj\Debug\HMIS.Tests.pdb

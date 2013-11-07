@@ -1,0 +1,10 @@
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.BaseInterfaces\bin\Debug\HMIS.BaseInterfaces.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.BaseInterfaces\bin\Debug\HMIS.BaseInterfaces.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.BaseInterfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.BaseInterfaces\obj\Debug\HMIS.BaseInterfaces.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.BaseInterfaces\obj\Debug\HMIS.BaseInterfaces.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.BaseInterfaces\bin\Debug\HMIS.BaseInterfaces.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.BaseInterfaces\bin\Debug\HMIS.BaseInterfaces.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.BaseInterfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.BaseInterfaces\obj\Debug\HMIS.BaseInterfaces.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.BaseInterfaces\obj\Debug\HMIS.BaseInterfaces.pdb

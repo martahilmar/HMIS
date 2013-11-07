@@ -1,0 +1,22 @@
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\bin\Debug\HMIS.BaseInterfaces.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\bin\Debug\HMIS.DomainModel.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\bin\Debug\HMIS.BaseInterfaces.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\bin\Debug\HMIS.DomainModel.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\bin\Debug\HMIS.DomainModel_Accessor.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\bin\Debug\HMIS.DomainModel_Accessor.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\bin\Debug\HMIS.BaseInterfaces.dll
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\bin\Debug\HMIS.DomainModel.dll
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\bin\Debug\HMIS.BaseInterfaces.pdb
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\bin\Debug\HMIS.DomainModel.pdb
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\bin\Debug\HMIS.DomainModel_Accessor.dll
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\bin\Debug\HMIS.DomainModel_Accessor.pdb
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\UnitTests\obj\Debug\UnitTests.pdb

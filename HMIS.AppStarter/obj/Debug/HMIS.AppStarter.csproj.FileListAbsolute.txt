@@ -1,0 +1,30 @@
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.Properties.Resources.resources
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.csproj.GenerateResource.Cache
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\bin\Debug\HMIS.AppStarter.exe
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\bin\Debug\HMIS.AppStarter.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\bin\Debug\HMIS.BaseInterfaces.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\bin\Debug\HMIS.Controller.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\bin\Debug\HMIS.PresentationLayer.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\bin\Debug\HMIS.BaseInterfaces.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\bin\Debug\HMIS.PresentationLayer.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\bin\Debug\HMIS.Controller.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.exe
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS.PresentationLayer\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.Properties.Resources.resources
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.csproj.GenerateResource.Cache
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.AppStarter.exe
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.AppStarter.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.BaseInterfaces.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.Controller.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.PresentationLayer.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.DomainModel.dll
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.BaseInterfaces.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.Controller.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.PresentationLayer.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\bin\Debug\HMIS.DomainModel.pdb
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.exe
+C:\Users\Marta\Documents\Visual Studio 2008\Projects\HMIS\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.pdb
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.exe
+C:\Users\Marta\Dropbox\FER7\Objektno oblikovanje\Seminar\Marta_Milakovic_HMIS\HMIS\HMIS.AppStarter\obj\Debug\HMIS.AppStarter.pdb

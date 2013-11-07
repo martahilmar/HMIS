@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HMIS.DomainModel.Administrator">
+    <Position X="0.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAQAAAAAAAAAAAQAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Administrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HMIS.DomainModel.Doctor">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAgAAAAQAAAAQAAAAAAAACAAIAEEAFAAA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="PacientList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="HMIS.DomainModel.DoctorRepository">
+    <Position X="3.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAgAAAAAAAAAAQABACAAAAQAAAAAAAAAgA=</HashCode>
+      <FileName>DoctorRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listDoctors" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="HMIS.DomainModel.Nurse">
+    <Position X="7" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAIAgAAAAQAAAAQAAAAAAAACAAIAAEAEAAA=</HashCode>
+      <FileName>Nurse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HMIS.DomainModel.NurseRepository">
+    <Position X="3.5" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAAAAAAAAAQABCAAQAAIAAAAIAAAAAA=</HashCode>
+      <FileName>NurseRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listNurses" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="HMIS.DomainModel.PatientRepository">
+    <Position X="10.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAQABkAAAAAAAAAAEAAAIQA=</HashCode>
+      <FileName>PacientRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listPacinets" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="HMIS.DomainModel.Patient">
+    <Position X="13.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CgARMAAAAIAAgBwAAIAAALQAAAEDVBICAiQgoEAEgBA=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
